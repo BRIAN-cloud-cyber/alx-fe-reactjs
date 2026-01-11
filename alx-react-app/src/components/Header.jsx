@@ -1,7 +1,7 @@
 function Header (){
     return(
         <div>
-            <header>My favorite Cities</header>
+            <header>My Favorite Cities</header>
         </div>
     )
 }
