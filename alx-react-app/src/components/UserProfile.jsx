@@ -9,3 +9,4 @@ const UserProfile =(props) =>{
 };
 
 export default UserProfile;
+age="25"
