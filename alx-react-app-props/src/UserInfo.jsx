@@ -1,4 +1,4 @@
-import UserDetails from "./UserDetails";
+import UserDetails from "./ userContext";
 
 function UserInfo() {
   return <UserDetails />;
